@@ -3,3 +3,6 @@
 
 ## A little about me
 
+I am engineer
+I like sunny weather
+I have a cat
